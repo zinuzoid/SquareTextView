@@ -41,7 +41,7 @@ bintray {
         issueTrackerUrl = 'https://github.com/zinuzoid/SquareTextView/issues'
         vcsUrl = 'https://github.com/zinuzoid/SquareTextView.git'
         licenses = ['GPL-3.0']
-        labels = ['android', 'log']
+        labels = ['android', 'textview']
     }
 }
 
